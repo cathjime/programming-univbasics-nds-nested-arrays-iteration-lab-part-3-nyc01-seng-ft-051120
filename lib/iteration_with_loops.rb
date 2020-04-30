@@ -11,6 +11,9 @@ def join_nested_strings(outer_array)
   row_index = 0 
   
   while row_index < outer_array.count do
+    element_index = 0 
+    while element_index < outer_array[element_index].count do
+    end 
   end 
   
   
