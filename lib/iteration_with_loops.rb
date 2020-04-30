@@ -12,7 +12,7 @@ def join_nested_strings(grid)
   
   while row_index < grid.count do
     element_index = 0 
-    while element_index < outer_array[element_index].count do
+    while element_index < grid[element_index].count do
     end 
   end 
   
