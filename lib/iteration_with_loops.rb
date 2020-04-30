@@ -23,7 +23,4 @@ def join_nested_strings(grid)
   
   new_str 
   
-  
-  
-
 end
