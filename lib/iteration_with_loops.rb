@@ -1,5 +1,5 @@
 # grid= [["1",2], ["3",4]]
-# if grid[0].class == String, add to new arr 
+# if grid[0][0].class == String, add to new arr 
 
 
   # src will be an Array of Arrays of Strings and Integers
