@@ -10,6 +10,9 @@ def join_nested_strings(outer_array)
   new_str = ""
   row_index = 0 
   
+  while row_index < outer_array.count do
+  end 
+  
   
   
   
