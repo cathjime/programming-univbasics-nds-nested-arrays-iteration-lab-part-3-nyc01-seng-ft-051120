@@ -14,7 +14,7 @@ def join_nested_strings(grid)
     element_index = 0 
     while element_index < grid[row_index].count do
       if grid[row_index][element_index].class == String
-        new_str += grid[row_index][element_index]
+        new_str += grid[row_index][element_index] + " "
       end 
       element_index += 1 
     end 
