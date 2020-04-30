@@ -6,11 +6,11 @@
   # Combine all Strings present in the AoA into a single value and return it
   
   
-def join_nested_strings(outer_array)
+def join_nested_strings(grid)
   new_str = ""
   row_index = 0 
   
-  while row_index < outer_array.count do
+  while row_index < grid.count do
     element_index = 0 
     while element_index < outer_array[element_index].count do
     end 
