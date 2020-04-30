@@ -1,4 +1,5 @@
 # outer_array = [["1",2], ["3",4]]
+# if array[0].class == string 
 
 
 def join_nested_strings(outer_array)
