@@ -1,4 +1,4 @@
-# outer_array = [[1,2], [3,4]]
+# outer_array = [["1",2], ["3",4]]
 
 
 def join_nested_strings(outer_array)
