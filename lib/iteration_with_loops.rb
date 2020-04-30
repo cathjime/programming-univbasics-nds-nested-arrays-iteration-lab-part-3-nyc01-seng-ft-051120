@@ -21,6 +21,7 @@ def join_nested_strings(grid)
     row_index += 1 
   end 
   
+  new_str 
   
   
   
